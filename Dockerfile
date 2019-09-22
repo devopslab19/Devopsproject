@@ -1,2 +1,2 @@
-FROM devopslab19/apache
+INSTALL apache2
 ADD ./var/www/html
